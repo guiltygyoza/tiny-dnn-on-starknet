@@ -1,0 +1,42 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "idx",
+                "type": "felt"
+            },
+            {
+                "name": "addr",
+                "type": "felt"
+            }
+        ],
+        "name": "admin_store_addresses",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "x_len",
+                "type": "felt"
+            },
+            {
+                "name": "x",
+                "type": "felt*"
+            }
+        ],
+        "name": "compute",
+        "outputs": [
+            {
+                "name": "v1_len",
+                "type": "felt"
+            },
+            {
+                "name": "v1",
+                "type": "felt*"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]

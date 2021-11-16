@@ -1,0 +1,905 @@
+> Tx sent to deploy mnist.cairo
+> {'addr': '0x06e31dc6d4b4c2f8995be41beea8b8d9529faa5176b21e39d4bdf140113a9d5b', 'tx_hash': '0x39ebb906af45d084840949b348c30ac4a9d13b6e7b3256952dc85dbb3976f2f'}
+
+> Tx sent to deploy mnist_v1.cairo
+> {'addr': '0x043103ebec7028f519fa019d72df759f9a4f908163f42b4394ff952ec73f5409', 'tx_hash': '0x1e4db4cf94c28425a37f464097e7ca745df4ee7833666e832f300cb73f11fdb'}
+
+> Tx sent to deploy mnist_h1.cairo
+> {'addr': '0x045803e0d66b268fe143da8a9e19adf42b11fa5fe7c1b7fec4925557079cfd8e', 'tx_hash': '0x43c9163a7199253e8690b365d9b2e4934af7e1081c243576dd397b697cd190'}
+
+> Tx sent to deploy mnist_z.cairo
+> {'addr': '0x04d3d1c20c42faf298893de99600b99ffa15005e997167a31bf6ec750bea8077', 'tx_hash': '0x5dfbc6a06916d3ff93f8d44445c19dfda5c10c217e759ff5522f63f3a0278e6'}
+
+> Tx sent to deploy mnist_v1_sop0.cairo
+> {'addr': '0x038737dfeb9c93be035a2e6c1925501d2e05855b25855e25bda978295261b602', 'tx_hash': '0x13794eeeb5b63dfd650800706ccb7568ee41ac2ec1771090a2e1b47a6628fcd'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop0.cairo
+> {'addr': '0x0676ce19f87dce92e80c30c6cd92d9134ad161adcd5c5db4e3a8f7e1ff71932e', 'tx_hash': '0x4a859726b888f7a1f87a016a7965cfa19e936268502ff91b0f48c1116d6e016'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop1.cairo
+> {'addr': '0x068b6c591e5b9f9f9c6cf4b6aac8f646fcef06f1e2e5912b7cffb3418c3af7ee', 'tx_hash': '0x761972b977d8d129275c2e19ac9bdeda7add5aff74ca6749f0826f73613fb6c'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop2.cairo
+> {'addr': '0x065cb6a39b3d1c1b542d87a464ee7c871e140585d082dedb43d9801f2f10a0f5', 'tx_hash': '0x4dbacd56b01e7d22bff970dfb24fb5203650df14e37be61bc29aa9fa827da74'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop3.cairo
+> {'addr': '0x018f3a8cef793acaebb0bcd85474fa97a3b9815e99afaada0be89ae1d554da9d', 'tx_hash': '0x68d0ed7afbbc4eabd35291bb5705b11f4933cea68ba7730950a338a82e8437d'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop4.cairo
+> {'addr': '0x02cbb8dd8acc01f5aa34e261efb9d24c9fafad4ab1dda1bb5cdfc5cdf9a4963c', 'tx_hash': '0x49a1378856b39ce9766900fe3983971634481bd6eae2efb066d97a7778c3dde'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop5.cairo
+> {'addr': '0x0782b5513a374705fe20141fb2228cd3304471cdf2f5fa44637b5cb56a8b444f', 'tx_hash': '0x6e75015172554c715fdc7bc85ff0dc803ff9d2b5d8a6dd1922cc069947a72f5'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop6.cairo
+> {'addr': '0x07f0d78b59239497757bc4cdeaf298ebec3dc780d85d75573820fb431f15be01', 'tx_hash': '0x1801f8c95354523329fa376a9d2c32a54b033a30bd61492833336b005058f9b'}
+
+> Tx sent to deploy mnist_v1_sop0_subsop7.cairo
+> {'addr': '0x064f8f1b2b7c8aac978046479c633585586f7a24a4a8e3540d358220caf11316', 'tx_hash': '0xe0485ce7e0770ee56af2842e797653a55edcedaed4fd9f685d663311b70fc7'}
+
+> Tx sent to deploy mnist_v1_sop1.cairo
+> {'addr': '0x00166d4d9b516bdd26f902e0c5f952d14d03d990cbe1a420c0df328e89cee7a2', 'tx_hash': '0x604bfaaac58307c306f5a6e730250cf2225e25024e4ea2064051b7d60f2398d'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop0.cairo
+> {'addr': '0x0728ce979acf12532ab2c9096d1324e41e6bdf4b5236a3ef39845bcf30e2066c', 'tx_hash': '0x67df757e76bdcc2a696efc7d6ac15cb2c0ccc668a05dc1bc58d407d030ee97'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop1.cairo
+> {'addr': '0x04bdf1ee8c0d22c625872e7ff5ca665b7ab2c548accf95d663e6914cd600973f', 'tx_hash': '0x57162a5cd8e4be22446e96a872b98bcbe918bbcbe9c2148ea2e010c92432c66'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop2.cairo
+> {'addr': '0x00e968c64d770e37873d0a05e17936bca5de7d44889c1b0a99f7006b1a82c016', 'tx_hash': '0x4fa6d446564f81f3ced4bfd57ba0cca625d05aa1f117585bf7a721932d342f2'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop3.cairo
+> {'addr': '0x07fa5dfa0c8ab38d6a57e375fdf1483b94069ffea5ad99a7b7fb011b57983a14', 'tx_hash': '0x57ded52f6fa8b56ed7ae155c12b557cb0f81457d2ced76dc7d34ae9d57fbbaf'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop4.cairo
+> {'addr': '0x03e89e064f523443a0aaba1b3adb7db9156310ffa91947acb3593e9c3de34425', 'tx_hash': '0x15d18322889a4bcda5848ca6af763de3f4978a61855da2ef83a292621589a15'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop5.cairo
+> {'addr': '0x057771056c8050f29513980dc98272afa5ecee5b6f8773164d45f7defc66185a', 'tx_hash': '0x6ac3dd696967932a469effbb58738637af484a6ee1776486aece739276cf8b0'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop6.cairo
+> {'addr': '0x0771607a13dba4b49498a583cc8fa6e36488024bd23b51f2dfe525d2c750e313', 'tx_hash': '0x148a98b08b8cdce000ec51a5ea01bdb4a6b53ced479363511bb2d45161e64a4'}
+
+> Tx sent to deploy mnist_v1_sop1_subsop7.cairo
+> {'addr': '0x032a2b780f75bf2d5ac427df2548fe065e797db684b7dfb27b599e774d2601e2', 'tx_hash': '0x2f4f056c1e5d6a0ee31745d582658deea883e74cb21811da326c47d85ab4860'}
+
+> Tx sent to deploy mnist_v1_sop2.cairo
+> {'addr': '0x04bd40be55789961af3c5eaf67189b50e271e6418dae90ab837643df0ac5225e', 'tx_hash': '0x47e9069f475ee59c8da189e884323cfc4fc62d0c22e3180c44b0b193a98b09a'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop0.cairo
+> {'addr': '0x0520b162e3f438fb5e9bb928676ae6caa4d32c2f5fcc9ba23a3794f65b9213aa', 'tx_hash': '0x487c4093446b38bdef753e2d6e4535fc6add6593c81308515cae15755332696'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop1.cairo
+> {'addr': '0x03caea2853ec5de63e66e07b1ce4784d34031dfcbccb9032100894664ffdcbfe', 'tx_hash': '0x736dd868d2858041a2508328032a181bfa34ee31a376f45ad8b8dc5ae33cf2d'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop2.cairo
+> {'addr': '0x0597ae6f266348d44ca97dd414e107ad50c4f991965d6a9cb33e438a0f569f71', 'tx_hash': '0x1afc23c8ea4fbde56eb136d49d696bbada5f27ba10fc1c1b0207f4c9c2fe327'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop3.cairo
+> {'addr': '0x00455683dcaa2232d35d7a10b73365261ee0d6c8f0bcf98f1d4f394e482f7689', 'tx_hash': '0x4d7f136e63a38ef44af5c839283e1c7a1ca9411ad0d392cc2d4dce568ecd29b'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop4.cairo
+> {'addr': '0x00e40a578ed13b22ef9dc5dab92ff387adb7a228467a71d8e3797a80509f84b8', 'tx_hash': '0x3a1aeb7ed30eb8a4ee5fad4bd6d1e593fce6f836c207a764bce36f961719dbe'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop5.cairo
+> {'addr': '0x0009fe37e79e497b27d1853928a94d704cd78b8873d163e4100910b6b0b74b66', 'tx_hash': '0x694d19f4962365e394bd25fb9a6e7f2bbcdd4c7dc653459e630f7f1f9c5d1c8'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop6.cairo
+> {'addr': '0x02c3e2b8bdc148fee0056d99b77a3346ce1e1804674fecde30b583fa9c7df2e2', 'tx_hash': '0x4818e1214ad275d68da96f4ff5c5583f342ca46f468e4e4b58cdcd38b5188c3'}
+
+> Tx sent to deploy mnist_v1_sop2_subsop7.cairo
+> {'addr': '0x0495bf698268424243dccd3c46aad632e8430228cfdb36f92dd0a6352e77df33', 'tx_hash': '0x7be95e82d8c1741e356656b0d4818286f421e948e16fa434ff9a4791d4369f9'}
+
+> Tx sent to deploy mnist_v1_sop3.cairo
+> {'addr': '0x0523830838a9a5dce44ecd581692a5d234967823fd98075451a584b59e9985a0', 'tx_hash': '0x7b3fb7d049ca82a87e5500c12404521a0c66debcb49732b77f9add5e02fe44b'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop0.cairo
+> {'addr': '0x04b9a4a4b35e8e9b8d89aaa00d56c20971cf11f88ebabe4765097e6ffba80318', 'tx_hash': '0x5e40d7bf3a4db310fd381e2f634f69ba9afbda6030fe5d85325e7709b95b1b9'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop1.cairo
+> {'addr': '0x041f51e5b734625dfe6109462156ffd84b84520439059643b87ab42ad39248dc', 'tx_hash': '0x3e5413d6d8d99bb4ad104f2cc583267b47bc80be50c4642197e7512ae88143d'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop2.cairo
+> {'addr': '0x04295ee062486b1b014dcc022a0f1f387f3da5f6aad1dcdb0fa33a85fc2ebafe', 'tx_hash': '0x28d872e5f153b62415bcf74ec926e234ec5ae906aba1e0cc3020397a21ce528'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop3.cairo
+> {'addr': '0x05cdf8c63dd84b36878f4007fc0cb76aef7beff53052f671c203e24ec1c6e455', 'tx_hash': '0xf0f9ce8841a7778926b512f6e9487eb91670b657105e5625a2bb0664e2a183'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop4.cairo
+> {'addr': '0x059d8eee6b807f86f6f441e34d2d59b1c10a28675e2e811f6c11c322c26f3162', 'tx_hash': '0x7dfd78e050229761043d3f57ea970f65646053b2d2ec7945c4a53c9c9eed10e'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop5.cairo
+> {'addr': '0x0159f216b5925318bcb5359f789c4ca93a41b7ebd2623d5f1e54417cf77f0180', 'tx_hash': '0x3e38b925c0c947254ead1cb6050405d88abf1e8d9e5ebb7ec246bffb0826dce'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop6.cairo
+> {'addr': '0x07c3f6f060a41c489614bfb96add0d9bbe6407455cd2b7379df9d1eb052b242a', 'tx_hash': '0x2faea9534864b3b48743e203d5279531431d1739fc4a15db78cf477f9a16d14'}
+
+> Tx sent to deploy mnist_v1_sop3_subsop7.cairo
+> {'addr': '0x0113c3891ca84f0cfd925d64584fbf962bbf4588bc3c84c28361238195238aa7', 'tx_hash': '0x1f3b0c1ddfcb17dafdc6eda30075a68ca4a3061070dee2f80875f306990f0ab'}
+
+> Tx sent to deploy mnist_v1_sop4.cairo
+> {'addr': '0x017064b396c8de1960babba2e3b44ab51fd14eb4012c8bea36291b731709cf14', 'tx_hash': '0x7a3f78fb72a29fd64d9a1f69037c58d55114927c5cff139b3f39fefd6a23a44'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop0.cairo
+> {'addr': '0x07ba23dbb697fa8e3b1f0b16befbfde981a9b7e64e7d7b0892b73ef419750492', 'tx_hash': '0x175eb27541f2888379392040d4ff42b3a0cb4843846735655c9ba7245e6499d'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop1.cairo
+> {'addr': '0x05103394bfe15bf94091e5095c9d9d7b5ef63691d6bccc2720c9a60b670f7775', 'tx_hash': '0x7f54152b489ab9c74b2f3748a415cc0b99cb4fd458d76b6f3abe9caca0d3fd'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop2.cairo
+> {'addr': '0x07a8842d08f3d98af54230af566f0c4686bc956da2d8d1fa86001c59fbd5a1bb', 'tx_hash': '0x6ad3bcdbeceee71f8c15ca191780c91b8cded7b93ae29e23be2b104b594078b'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop3.cairo
+> {'addr': '0x020a63fb9cacc16e79857b1f220fa69fc1aad16e6c1d59f287992c145aa7a5e8', 'tx_hash': '0x55ad627ff8c85baf964f017d8e1c50ef1b96a8840baf11af42c8e582a95d417'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop4.cairo
+> {'addr': '0x01cfb48c803d0e4bd146b9805c0d6aaf2cc39b063ab3f3ca86a12dae839e5890', 'tx_hash': '0x72a792dfe9efa4949f2f9c2d3cd8c5988507d1566f9582734cd4c0d66d077ae'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop5.cairo
+> {'addr': '0x02f0da2bf37fcfc13a5ff9372d5a6877a3c68c543519809d83caa6abd3009570', 'tx_hash': '0x17289c2c8ad9e8ed031778e9a7a0227cf22ac6b23f3bab8e348ff199484816d'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop6.cairo
+> {'addr': '0x02a80550b084ad9b1b702f3e4dedb4bd0722918cb8a63b7239b9a77a93d94902', 'tx_hash': '0x7f14008ead30a80283c04f716007e566f8ad4d7d9bf7660e546b3c1a108431c'}
+
+> Tx sent to deploy mnist_v1_sop4_subsop7.cairo
+> {'addr': '0x04cdb1298fea0348a82afcdb41ae391f2cf5360c0f8aa2c11defa9386f9f9d13', 'tx_hash': '0x5aac07792503f15f55a8ded482a1aa4f7a8f0493a9e77bc68afe73a18db12df'}
+
+> Tx sent to deploy mnist_v1_sop5.cairo
+> {'addr': '0x002c7479f56f6d4613e27aef2877688d73514049cd17f056b3da541cdb0bef15', 'tx_hash': '0x4b0e53b797f7c2ded5557bea7b108535bc1c7000294b28b125c52a4179e7882'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop0.cairo
+> {'addr': '0x05c3909a561ad76257c428c0e1378d65391fe9930b838dcf4555a679bfa4bcea', 'tx_hash': '0x7819964dfaca6d160a095b349aa3a393cfd1533eac7a279630d0b00b623eb71'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop1.cairo
+> {'addr': '0x02da4948f0a2e75a84e4632ca12bc44df6c5ddd8be80108e4a3e31618e3920a3', 'tx_hash': '0x4808438e591000a1821b7718bcbe14c9b338a15b3f1d50571da1c115897d30b'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop2.cairo
+> {'addr': '0x01513b37bc46e40c4bab5d460a0c7cf3cf4f43e5545cee781bae92065696ac9a', 'tx_hash': '0x1d77471cf5d5130d239e949411f120d869ed58707440feb2092ca1ff62c029e'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop3.cairo
+> {'addr': '0x045a0020b1b932e4662cd5175be0e7a88eec6d50ddf417f9034ba436cbb33a4a', 'tx_hash': '0x5707028336f537737aa4bc3c5247d34b255ac4eee2149054ba0d4bf19a122ed'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop4.cairo
+> {'addr': '0x006ae6e20698ff7cb9951119940ea9d23b4a3a02e9495449436e00ec3879960e', 'tx_hash': '0x4bed03f375e9d5c44b7c07b79d559ed4c3c06581b8a9492760127af6057c394'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop5.cairo
+> {'addr': '0x06d277a64ad409b091972425de72a4f4c8c564896975eace685cef9128c0acd8', 'tx_hash': '0x23afcd748d665e0114af25218fa1e685c9fed2d22bc1b25616db06cf5409bc7'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop6.cairo
+> {'addr': '0x02a4dca888c441823270fa5cb8a7812a8b1e0a2184fc3d011e7286d437014404', 'tx_hash': '0x25cd529560d41af8a4e68f42092eedcc6e839c48c529d5a1e6a8ce953af9b53'}
+
+> Tx sent to deploy mnist_v1_sop5_subsop7.cairo
+> {'addr': '0x0479f0662c7f89c53e030ebda714372dc42772c31950281b83b95d018c366ed8', 'tx_hash': '0x646c1b1d515abfccab20271a9a32a4d8e4bc0829d3cb6f8a2f7a51959e3c4e7'}
+
+> Tx sent to deploy mnist_v1_sop6.cairo
+> {'addr': '0x04021495ab430bd2894569aed9a7de67e5d786faf25e03b80cac5f1c768f4365', 'tx_hash': '0x55c160b79e734150b28d7ca7ae3a93f3e29204007006ff7b3159579b95d3f4b'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop0.cairo
+> {'addr': '0x0414f6723de09aa7bd23582f6c7bfaac82004b5912d09b5c7400366cac013823', 'tx_hash': '0x6cb66baa98ba2b9e45f9bce0d9bc0870045d51a9bd854b778ce90cc7f5a3d6b'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop1.cairo
+> {'addr': '0x024a3959f2ec27cf5d50a53f2bd137f349c34df2957a96a12d31b299570e0e11', 'tx_hash': '0x41ac254448e0d209b7ea1c850394c0d21b05fef2a35100e8638a0e94466c42e'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop2.cairo
+> {'addr': '0x041c099d03e6c5da2598ddff27b695ecfd8b793ec9e52d3755c95001baa0633f', 'tx_hash': '0x5afbca0dd23fb69f9123b3b8afb787488e5726a03277f719dd8c16c1b743802'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop3.cairo
+> {'addr': '0x07cf6fed34e35dd9378e670d330db4ac01060ba69593da6b8c4f37a0f9f52020', 'tx_hash': '0x51d0ac8e5e57adc219735d694a779c7fd10a2a62f2c567e69bc315dfc0e43aa'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop4.cairo
+> {'addr': '0x07788e834f1d1fc24138620a28bdf5d64b25a0bb204f6be3936fdeb2ce436e3a', 'tx_hash': '0x4e80abe68ccbf9369c60c6e772c9e0347994b4363b3b118bb0f62d238f9d322'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop5.cairo
+> {'addr': '0x02acb3f45e3272204c9277c86742225c072f66bc9b0014f9857eb914f2f3f315', 'tx_hash': '0x1b92626b5d5bf225c017fc975b61bfef6c9d8abe9c065680bf8fe91d7cb005b'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop6.cairo
+> {'addr': '0x01a1dda841bb15d6e6356487832c8a7ebe957ce5a86c07af0ede2d360a23be6f', 'tx_hash': '0x28b5939f7a9bdbb028022cc7140f3175ff56d86191c3eb2fcf0b8597f49f1e6'}
+
+> Tx sent to deploy mnist_v1_sop6_subsop7.cairo
+> {'addr': '0x07c8482d13259be5ba0b17b43a1d1e96454f5262f558025dabf35d26a412502c', 'tx_hash': '0x51ee9871aaadfbd599ff144534bcec0e19a9de01bbd6bf215de7e1fc5a6d916'}
+
+> Tx sent to deploy mnist_v1_sop7.cairo
+> {'addr': '0x05d35742aff2af946214b979d63a483948d074e7d8dfca2f386df47507e05ec4', 'tx_hash': '0x58063a91aedabc705a53f877d703d952fbfd512fb7188e3a539378ecdfdb4df'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop0.cairo
+> {'addr': '0x077bb2c8eec04fb5a1bde052644d1f1c8f215f063fa1d57f16cc962cb97cf2ff', 'tx_hash': '0x921c241a2966ce67183c4abb9a613d2a9ccf4c48cb4f8acd95bbcf85311e7d'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop1.cairo
+> {'addr': '0x031228df3ebe56f341d105b4dab43295ad234c4d7c4ab8b930a783d2517a2fd7', 'tx_hash': '0x2173bc46378cbdb1a6c3127f7be990df020a037207d7c0d9a8cae888d1c5664'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop2.cairo
+> {'addr': '0x00ea6b578e6ef0545a89a590c8ce87fdb652ec55647c20667ddbe61c592f6930', 'tx_hash': '0x836ffa273c783a2e5f428a696c1de8454f742044a152b2f652d25d7452ea12'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop3.cairo
+> {'addr': '0x07be6a5ae9be06a43b39fdd182dc061d2e60ef281f24e15019ce6d4f7b5ba55e', 'tx_hash': '0xcc9872d9e7424990783cb0d2ca48e826f2a7f5a12e2b06a0bd0ae505b43831'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop4.cairo
+> {'addr': '0x03e0b33ee48267dffb06b05bec72dabcfb893f92d677cc6a51bdbf06d0c7dcbe', 'tx_hash': '0x54de84f667c860c732e4bcbd2fd4588beb5b569af7c9b5dae2b9f7a6acb8ea1'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop5.cairo
+> {'addr': '0x0427ba87cae818aa486c2cfc6d0f5026e8f3ad0bf8976367d5799e65ce7f8364', 'tx_hash': '0x5cc575c3d15e5551d4ba4d8015830165bdbb60c9771363cb50a57b9efa7fbd2'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop6.cairo
+> {'addr': '0x05c0f3d6e91441a094599eb354e8bd3e1c8d007fac95baddd237f456c83eeb27', 'tx_hash': '0x319648b7f13dcc4dc47c4a553c5e677b74068284c44a0efe5a381c92d50a1b2'}
+
+> Tx sent to deploy mnist_v1_sop7_subsop7.cairo
+> {'addr': '0x03b24c74aed5977ce158e24d3c7c66878e2a200f81bf6d218acd16e42c944203', 'tx_hash': '0x22fd000411ac33665619e27a585667c23f0f9c4b4c7756798fa5aad119fc45a'}
+
+> Tx sent to deploy mnist_v1_sop8.cairo
+> {'addr': '0x01dd3151db8337809de45c97ec9d7ba8a27520b0336e2abe0ec167cc987ea154', 'tx_hash': '0x337f383a8d2960ab319044a06459c6e6991b962912b076662e38a1df7703833'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop0.cairo
+> {'addr': '0x076bf9c75fce94644ea6469dad2d2665aec70a02602f5eef3e24f6db0f821df3', 'tx_hash': '0x2a4f68325dae0e1e59a3a8e2da1c00d261ef8ab9bef418fd93d8a2596421a74'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop1.cairo
+> {'addr': '0x0240b023d720e2fa879867d0dd156f47d03b17da127fab69178d03f28dff8a89', 'tx_hash': '0xdef3b21a077fa0bce29494b64dd6c0a6f32fa1f8d031f5939b024f079b0f47'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop2.cairo
+> {'addr': '0x0135a1ef3167316170fd9b8aba576d3afe8c1f3af307dbb145077fa43c698169', 'tx_hash': '0x1b3982071ed3af7bf08ab3d9d9a6a80b12d39cc30af73e24a4ac0d750ca976'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop3.cairo
+> {'addr': '0x03d9df6ba08e2572f05036fc399adaccb8a8486898ffe8b1a22131cbb4c5264b', 'tx_hash': '0x45392a1d7d58133092451a5bdd5bb5aced6f95c9be23a92b42035c487cc908'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop4.cairo
+> {'addr': '0x04de483cbf8ff9270031fcb8dd3a0d16be11625040ec4734f8f9f8d58735e5e7', 'tx_hash': '0x1e6ab46234aa2c23182189a5d64437d658e4cf108b2466b46bba72d84f04e0e'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop5.cairo
+> {'addr': '0x0355cbe1358cde2744c8e1c1a5d91432437cdb0f6d7ff10307cb7e862664cc48', 'tx_hash': '0x6ab548e6276ffd735638b1ee8b9d9af4335802a0f209adad3280e964abd1cc1'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop6.cairo
+> {'addr': '0x00a3cafa1dfee570bc4772f47604ac3344ca1a42c7e4aa5bad60ece27bc8b071', 'tx_hash': '0x5cd0438f1cd545a57d5b7f3046076eff4e2ca78186db83f1178a064a6f78603'}
+
+> Tx sent to deploy mnist_v1_sop8_subsop7.cairo
+> {'addr': '0x01e26e06230b675035b86d08ff768fd272aa5f0d28e808e47ffb7c8c17108a9e', 'tx_hash': '0x7e0942bad689927a490552744e6222025584471ef56f4e4d41bffcf6a1b1cc0'}
+
+> Tx sent to deploy mnist_v1_sop9.cairo
+> {'addr': '0x008131c7b65c5294d1269079d434e5ae758f283b85be51a2b85b055d23c796c1', 'tx_hash': '0x2d4bde5f753775c4c9890e048574c4f3764df2698b3a472c2d4c6835604c320'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop0.cairo
+> {'addr': '0x0585580e3eb4563580b716da694f58c29115c029ae6552e7c1477d8ab8aa7a6d', 'tx_hash': '0x196ba2a08e7499c56fbf589ba547b85b0e982ce55964bce0eeb65219aa558a'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop1.cairo
+> {'addr': '0x077241c387af6d476265e65000283320c67651728a6a2bfa8ac78ad979ba5576', 'tx_hash': '0x31dff7d15733cbd495bc40abee87e760177866b9585c2612da7610e0448e915'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop2.cairo
+> {'addr': '0x014ae78e3562fe0ad3fb47c6d7a7402f9e8777315139a7a67e35923566161ee4', 'tx_hash': '0x17ab21a6e6e09ad85276e3c7a6fe4823ea96d3d9121134dbe98dacbf6598705'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop3.cairo
+> {'addr': '0x0698a0164f11263f95442ceab59097cc8fbc3899937167322a6edc9aed57df0c', 'tx_hash': '0x3e552a56d1df2d0632caf7cccca09b7dec134d811212d3b5ed7ded64a85d446'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop4.cairo
+> {'addr': '0x067feaf2092d1338c2449e21678d8c19ae54e784ac6f02c265fe6a4ab7ab80e9', 'tx_hash': '0x4744bc84301ac9389bcef9e802886d7ccdf1bd07d395c492879cf690e9582a5'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop5.cairo
+> {'addr': '0x0404e44ed9ce8fb9ab9b0d600e08aae28f9fcf0d4ae9b68b1a6cd8c205d6db91', 'tx_hash': '0x15554b08e1ddb1a681d481ce4a320bd18f582a8557786f621596e34f76f51eb'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop6.cairo
+> {'addr': '0x02755d776cf8b02be3fa4a758debae1a800f4df925a5076ec8c5c5334e46e145', 'tx_hash': '0x388ebdcdaf2a0ca7c780406ec99a4c68a34423f0cda862e9978ef23c8614439'}
+
+> Tx sent to deploy mnist_v1_sop9_subsop7.cairo
+> {'addr': '0x0425c5a15f23ca5395eefeb529e049e4431f422d0fc8ad95f1db8a500e676111', 'tx_hash': '0x64d1a340583b7d05dad0560ad7a54a4df00d1060a90ef57a54361ebbb47a479'}
+
+> Tx sent to deploy mnist_v1_sop10.cairo
+> {'addr': '0x050f73a3965398c6ec2fa5cba3bc3398d012c68adbfc55ad7eb830da145fd917', 'tx_hash': '0x6a9a9f6af96b2e4407a5ea21f8661e1b66e35e8899e92b1f4049ee8f63eb71f'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop0.cairo
+> {'addr': '0x065c3502122c8b0162b94606bc32bcf93a10897dd886af12f3d9eaafa4eab4a9', 'tx_hash': '0x1cc13ae421a9e498d8d365c36321e44c6a0c2b0f72d2d157b6450a2aaf0707b'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop1.cairo
+> {'addr': '0x02ede12a538008427fbdf71a6ab0af3832c962447a93c5dc9603680b6bb09c92', 'tx_hash': '0x44aaa6af39d7dfdc58304f754f88a37a0ec156f0bd1cd9667b4514795281ef3'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop2.cairo
+> {'addr': '0x0158b22e00d2ca47d9405177f734f9c6d7fc4dba398e7802fb6dd74e52a39cae', 'tx_hash': '0x2327b50cf657eb876305c93276039dff5a723095286675874a5f12e17b62fd3'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop3.cairo
+> {'addr': '0x04290c3989c0a030e8ac17c329f427f5f5c9e5472b843505e9c2c349c34ae86f', 'tx_hash': '0x5fa85e19c4e04131c6d9314855ef87c70ef1c87c6e15dff44af66e47333b772'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop4.cairo
+> {'addr': '0x01226f18233b0bb984018e083821cc6c131a344aaf331818f4d6a2faf6acb476', 'tx_hash': '0x5d10974068f9c998598e878e3c2a132f878d19cd542483b48f8cf23282cbef3'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop5.cairo
+> {'addr': '0x001927203db2720833c8dd51c04757ba5cf19a70da1feb92d8e36302a88c0d07', 'tx_hash': '0x5a918645a8fd7e52e4c6be3ffbe8aff7352c1cce4f949b017f0dec7a21b0773'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop6.cairo
+> {'addr': '0x07c0bfa73c8a266a04ce4ccc359908d318682e99ceedfe85d83fc5cf62ad4850', 'tx_hash': '0x59ff12c17a9fe322d49be7b9143a6fd77aa7fb141e71cddb510aca306fd30a2'}
+
+> Tx sent to deploy mnist_v1_sop10_subsop7.cairo
+> {'addr': '0x04dd3c7d2f4d1dac6f7a26f3dcab7660abec67380a1e48c49a4e72e53c39c38a', 'tx_hash': '0x3147a80fb4bf7a6c9926c338be92cf1ffa8de9b45b9e7bd0538fcc0efc4c581'}
+
+> Tx sent to deploy mnist_v1_sop11.cairo
+> {'addr': '0x0726c3afdb7e2ecac5342e44647b10c096dab8e208fd36d5251180fcac633237', 'tx_hash': '0xdcd791c2b38a606c857807a98b84578e45d627538807e3f1063dd70566c894'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop0.cairo
+> {'addr': '0x01651735e583f8b2c4f71c9bac3323b0e089b5ef5ad13ac09804e64df216d03d', 'tx_hash': '0x2038222bddccdd5cc0d28b02965e0cb1ef87b9d5758aa14813ce6cbbd085ef9'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop1.cairo
+> {'addr': '0x03c5ef1981163746b46387df658f821920000e039781679cce58325c9598ab1e', 'tx_hash': '0x129f0abd79d40c819c36e200b8d341f5b541e19a89ac4215422832211eff1df'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop2.cairo
+> {'addr': '0x0696a9fcf29e5ec52f499da1d26ae890c80d02b6d47dddcdf9a2ad33da64fbd1', 'tx_hash': '0x63c65e300b8a0668707b9f9e9c4fb9b80bb051c8ad55cbec8ce526c04ed726d'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop3.cairo
+> {'addr': '0x02024caccb5939565d48825549cd2209b88fede420fd217f1676e0af964c3345', 'tx_hash': '0x7c885a6172df0cf33454ca662ba0be55fdcf9a3183bd9f7aa74eade5a085815'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop4.cairo
+> {'addr': '0x04565276feefbcc7c7e8be6aaf093bc8569c90477a3ea9a60dbc09229e0b4784', 'tx_hash': '0x71e5f55d08f3d81aa2b83d79e625f046afa6445f95a454e5b06804551896d6d'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop5.cairo
+> {'addr': '0x0650515b229204efbf6ae579499dfaac5b5f23e3e00f75204ee02e665d95ac55', 'tx_hash': '0x25669c5a47ea4b353fad32c90e8d4648d5546b5d04b3febe6884411852f4435'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop6.cairo
+> {'addr': '0x044159d35c08d6ff206459ce123e89f87b336cc6ce9bbe9f8c8c6b6c4c140eef', 'tx_hash': '0x59771f3245aadbc82bc7d32853499c7a88a6676c74ef5c9b73e0133391b6858'}
+
+> Tx sent to deploy mnist_v1_sop11_subsop7.cairo
+> {'addr': '0x0485bcd1e738f1b1eed29a7a90230c073f6a352f8ecd96f4af70ce116ea670ba', 'tx_hash': '0x4de420600fa14822dd3889212b3d9bae29c3b4931e5d2df96382823a242eba5'}
+
+> Tx sent to deploy mnist_v1_sop12.cairo
+> {'addr': '0x00e5c56fde882c9c21e5f78d406b949b8ab548c853a6824c3314dc8fb75bebc1', 'tx_hash': '0x4e0d559e7da95c6df79fbc2ec250585b0bc3cb00162decccbb199701a3f1c65'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop0.cairo
+> {'addr': '0x064f5e939565d62b371ce9804a215358e95d8c7953d696b95cc891663ff89027', 'tx_hash': '0x605129de9942c6f28c9cda1ccc12f732f870c10694cd88645ba5a0c3e03da2c'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop1.cairo
+> {'addr': '0x00628c0de26fc45a3f9b952a97102e594dfc15644527cbf862a2679a04014f21', 'tx_hash': '0x48d9f8981799c093ec07def4651428439ecba587563f2353d45ae8a30d3890e'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop2.cairo
+> {'addr': '0x04d6d38290886f83f4f6107629930db9fb85c8422bb2e66f551cdb6cf9e7e318', 'tx_hash': '0x10083ea95579eb0353259caf1da0fa6c423056888a988410b080e9e3fb360fe'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop3.cairo
+> {'addr': '0x02eabd1750192ecf1f2fc1f940ecfdb9cc3d736210dee8fd5f3848e5a2503a03', 'tx_hash': '0x765c349f6bb9c48331bd3172910fc862e2529b26918df9a9c45123c60c63a14'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop4.cairo
+> {'addr': '0x00b0314018f94c8a31bf11883059e6bc73314434c064786f661f87c3aa9debc1', 'tx_hash': '0x31073c89b111cc6dc4f595417041e82f64fc36869eddd009b86c81361340849'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop5.cairo
+> {'addr': '0x039b57a9a01e4ad596b3153c248cd36f68f963a6fe2fba62deea8f3d9d2a1ba7', 'tx_hash': '0x29b9fd7de7943fbecb5e90285f65f478084031d4c12c5f5b9d973f87677e3ed'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop6.cairo
+> {'addr': '0x03376e476bc59111a25fdf0275f1388ed55ac6cc25a5db2230fddfafc7f63877', 'tx_hash': '0x508eaec5b7737b6742f3efe3b1985611075468a9ef213e95f19c235cc19430f'}
+
+> Tx sent to deploy mnist_v1_sop12_subsop7.cairo
+> {'addr': '0x04e3ea1102379869fccb15cd98cd163bf28edfd9a86598749cfdcb6fb07acab4', 'tx_hash': '0x3576f3758a3a1f7743541709a48134c38e795aac031bb748f59b08d7997e8ed'}
+
+> Tx sent to deploy mnist_v1_sop13.cairo
+> {'addr': '0x00f6ea533c8b4e10e9a31400101a42c72d2369836c78e033bede0331d57a1692', 'tx_hash': '0x4b9e9aa7d6b48b0eb55fa3c15bf89161f954d9e3c52e197620c675e46bf883f'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop0.cairo
+> {'addr': '0x0665aae1be4bd26a18415c419ced4c9d09b0c9380623304453819ca7f8b2b86f', 'tx_hash': '0x3dfa488d1b22c9e4e3697a586274345598110c2079f8e9bb8c2384d7f691073'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop1.cairo
+> {'addr': '0x01dd878e51d0a088b97b74d138369376a735c24667a0a9a275c68cc191928c35', 'tx_hash': '0x483d55ae321e298cd6a2d4cee8c74bb97dd567063c551f6c443aa91f0edf181'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop2.cairo
+> {'addr': '0x05efc0c1a32fbe7d039e695b3b675d251762e8d511bbad29de25f0432e44ff49', 'tx_hash': '0x4ea602eb908bae88f72fb6cbcc050a15cb548fe5889fdcd737e8706913276f6'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop3.cairo
+> {'addr': '0x06088b77eee0d35e72dce6d90a4789fcad807286decae8d73d8c8722d404da78', 'tx_hash': '0x7b49715e36acfb8bd0bfc7b0a994dda4ba816146a81e34387334b76510c7592'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop4.cairo
+> {'addr': '0x03bfcc4056e87995fbfcdcf6a2274ea729ae97696b164dad953c96c457477694', 'tx_hash': '0x675ae6a2c8b0dc34cacdc1a4c0b42ce43e896ba55cfa7ab6f0c49b8b903e691'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop5.cairo
+> {'addr': '0x05eef2afc086d280c3381985accc1b617712479cd40c8ad53d7e7d1beb54dabe', 'tx_hash': '0x3dea70dfaee45204afaa35026db09c532265d96c2e91e5fb4fc33d9c845f388'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop6.cairo
+> {'addr': '0x0779cf70786144e75c029e6b98dbc672013b2ef9c3de33c3e7d176e12398f34d', 'tx_hash': '0x53e37bd00e3f4afaa11f9e18b545fe52ff32b73b5bba7a200c07a53977b64d3'}
+
+> Tx sent to deploy mnist_v1_sop13_subsop7.cairo
+> {'addr': '0x0060b58a33d07106350c7c11ce254180afd336a58456fcd7ef9e03d99cb5b72f', 'tx_hash': '0x6f2a05ec61a1ec699fd51a447bf824a80ac74459b47f7be5c140679b49484aa'}
+
+> Tx sent to deploy mnist_v1_sop14.cairo
+> {'addr': '0x0554ac1232a9d32edfb22224ef24c10585ea909d1f3ce37e8413fa04149ce089', 'tx_hash': '0x79b0bb71be5012b1e9bc1da5fd83db14e6b2a53f978393e91c1e75fda747771'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop0.cairo
+> {'addr': '0x02a41e27f1270fc5ca56cb9f2b961b8738b0d1e6403e4decb638b1bfa087b44a', 'tx_hash': '0x14a6fa5ff265fc148a1e54560da1bed15ff2ed28fa2bfa94fb2a72bd9c06406'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop1.cairo
+> {'addr': '0x0781bc78a9a285f1fea41a448148b386b45223b8182a72a846a9440c051d3db4', 'tx_hash': '0x73597358813b4ebc3cc7d140c2665e05a7b4371306d54a3e975b70eb79a852c'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop2.cairo
+> {'addr': '0x0585956d0fe8b6e6babf7a4402e7fe941aa596e7ca1548c6dbeffc07da3aa1e9', 'tx_hash': '0x728bcff2da9b9f903c524e72d8341fe24c1983de5987ea760b32e26e4abfebe'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop3.cairo
+> {'addr': '0x005b032172a26007c931606e384d68056b3ab8518f517bffe978987e8a3061a2', 'tx_hash': '0x606f70699600338685b63e0037fa6982bc5449435ed2e892bf8e7dc7c8d3e67'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop4.cairo
+> {'addr': '0x00c7265ec2e610d1d278a69232637c2542fdefd8b00326e23787fee747fa0699', 'tx_hash': '0x5c294e0e10afb8c8292b05da33a8a72f19e3e58294ec3d80139ee839e652573'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop5.cairo
+> {'addr': '0x018e7b1f1701a79345a0df45dd2d74741d0bd42d66fc460d9c39f50aea7560f0', 'tx_hash': '0x550f4b782b681bad3ad6503b5ebe2665c54a80fb385358f03a54e668450fb4b'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop6.cairo
+> {'addr': '0x07c094b09895155af5f44bf6270367c9a7480fb3854a4388f76586593a8a5c57', 'tx_hash': '0x8be4522816291da9dfd374b0f135cf34efd958cf75c923cfcc25c39c48fc41'}
+
+> Tx sent to deploy mnist_v1_sop14_subsop7.cairo
+> {'addr': '0x05d51a74d171f301dbeb51b293c3d5f9d7bd0afc39ad3a3d1d179b3f7d61867f', 'tx_hash': '0x38e0c3fd10b377f52575eebb6f04dfdda56cb0dc8dfb28ce6fadbde99ca43c6'}
+
+> Tx sent to deploy mnist_v1_sop15.cairo
+> {'addr': '0x071cacc9c531e5953a4bda7eb97731fde20118abfb204621c591739dab58b1f5', 'tx_hash': '0x7a3362431afa4e9fd855dbf7142256b8c73b7c01ad6e89242e3aabaa176ea50'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop0.cairo
+> {'addr': '0x02af4aeee89b34f92f9aaaa549f955e1b2649b1902b4d8b45e4f64a386708e07', 'tx_hash': '0x53388b596665c63828ef552b646f24b9fb5b7a609128ab3ec9498a3c4626397'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop1.cairo
+> {'addr': '0x05e47187e24a3903c630f716f1266cbdb2bd8e774b89d71b8c9177f014d2243d', 'tx_hash': '0x659a921dc984c7f0f6636f10ce22bdac31a078cc447a721fbcb9161a9380976'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop2.cairo
+> {'addr': '0x02db46863b379845377b21ce9d55c014b34b1a1bf6acbad2d3c7655fa9bc8a7a', 'tx_hash': '0x70e8ca64042c78c0fdb1bd58be1532d44cffa13bb6d4cf479ebdcfc945aa105'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop3.cairo
+> {'addr': '0x06f212b06bb624af56089036eca93835084c4217d945ed1b3c6212c97bb01ba4', 'tx_hash': '0xdc107a428c14943e8e87977e3858d4e0f23f763a0020cf174808edd9483fec'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop4.cairo
+> {'addr': '0x01bd2533ed95540627adea78223ae70d1d704efd73fbe39221f14c4b39abc7c1', 'tx_hash': '0x743483be89cc73db8346d30c9f1b943e0da69ebb2dfdec705b96d591ce60172'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop5.cairo
+> {'addr': '0x0789f60a7d6db258cb1bd207b7bf15f56e1bd55bd5d3a699be05f481fa104efb', 'tx_hash': '0x5416efd0a51a258c1461862c6f8eba0f90948fdb28c897cffd824e49f876434'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop6.cairo
+> {'addr': '0x06de308211924992689598a7737c9ac0ad8a086db8a40b44a7a51a900ec655ac', 'tx_hash': '0x58eff6230eb9625c2002266c5d90083b12b2ec85f5d7b2b229986495e3c0b4a'}
+
+> Tx sent to deploy mnist_v1_sop15_subsop7.cairo
+> {'addr': '0x0060659279abe5550726febbd2289429d8e27db0a3752a705341c0a0fcaac7d6', 'tx_hash': '0x5de9dc94e72bde7c4fc0de2840182d05e5d0f19ab4cd09d6530b96d46ec007'}
+
+> Tx sent to deploy mnist_v1_sop16.cairo
+> {'addr': '0x0310e855759a4870bee89e9846a4997f84351bfd09004b8d2e98ff2b0051698c', 'tx_hash': '0x5bde3edced340a18e3acfd11948e5ef5fdef14a1f5d483e8ca8529d1e269654'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop0.cairo
+> {'addr': '0x01d83154f5533e297eaed95481362acd36dfcc4ce394e2552c7b558fc24cb086', 'tx_hash': '0x33cc7248f7d9b35dbae3882771b58df04ab5cdbc9083710d7fbeabd4195e878'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop1.cairo
+> {'addr': '0x07a2ef52f31e9d759e7a82c9971341287d30b1cc441b78019968f95cca63211c', 'tx_hash': '0xbcb62471dc26e203a5daa28dff867f5d817a4eb647e6aa8b200132bf9f150d'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop2.cairo
+> {'addr': '0x07e52d8fc677c710fa7616a769d54969100ba666afcabbfa5189366b5f00be1e', 'tx_hash': '0x11a41b3eecc724c7ae0d8a5f69c05aca44f650c5b11f43906bd5e783f713889'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop3.cairo
+> {'addr': '0x03527c95ed48bdb22376995b2f077e307e44dc5655c942b6da732a60e9b2f91c', 'tx_hash': '0x6d38e36ce7b807e097e8c106d1b1d2ffb76c83702d1ecdcddea9101cba36245'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop4.cairo
+> {'addr': '0x07294f553cc5823fcb3d9c8735bc3ea863d7bfdb8db3005623a5c9e20babb4ac', 'tx_hash': '0x6b8b002b1f99a34dea8050fa26d118c11e4bdb1b1aea7d9aba03d10e850ea44'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop5.cairo
+> {'addr': '0x068afaa39aa3353e0ee6cead0cf103af22314d4d130fdfe638d02060b441cfe8', 'tx_hash': '0x51165142ffd49e88674d74a1ca51a1fe75a7069b02162d33449efae4138de98'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop6.cairo
+> {'addr': '0x05b378f88e9cf7080c5b43925f1b3190f84a6d63d801e380cabc46b73b8907fa', 'tx_hash': '0x72aa1acd182d3057506758cc519cfc67fffc6b88f2b5299b5fab71f35e410d6'}
+
+> Tx sent to deploy mnist_v1_sop16_subsop7.cairo
+> {'addr': '0x005c932c8fd32f73bad2080f5987eed4ea714e17eb622b460e8994c319822acc', 'tx_hash': '0x5c1ca368f97b5ac52932ff63866cf9da6cce78781019f9a303567a7fd50de47'}
+
+> Tx sent to deploy mnist_v1_sop17.cairo
+> {'addr': '0x07c738da49d3b173ea127984c2a96240adb80ca5818a8a2244d5729e31768903', 'tx_hash': '0x370778d50952032b5a404952a7a4c23e3288e4b9509b4ea4bdfd413b1c7dd6d'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop0.cairo
+> {'addr': '0x01029eaadd02c41bad45b441fdf9db6b9ba74be864a7fbb9226cbb3c7c10bcc4', 'tx_hash': '0x7c118959d2c68b78b6bb28ad5ce7590737faecab90f913c4d3da87541fe12ff'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop1.cairo
+> {'addr': '0x015e59b499d4c8928f33b5e486585ebce4709039d69f7f4ed30f8a01cfbb6ba9', 'tx_hash': '0x79bfa9288c1869442648a1248b0fd035f5a9f94bbad0b0a16e4431ddf7a476e'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop2.cairo
+> {'addr': '0x0172aa523c966552ee7751a8d7fc859729e78b1db730003da6f2fe5678b93083', 'tx_hash': '0x45270452e078e569ea66a0472e6548a661e839f47fbb7527ead7ad7f39878c5'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop3.cairo
+> {'addr': '0x071d8b15258814ba411518dd99d370d2973fd5eea577a73399856b21381214bb', 'tx_hash': '0x3a7a31c4fe3b06514f7067c7691a5ce13b8df96b71e42ccd9e472f6d0747657'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop4.cairo
+> {'addr': '0x004b4c0fd2353b11b9af579e3ef1ce75e837b9b3d0eb6de1aca3196a263ebd76', 'tx_hash': '0x4e4b546e05cc9c9c72ba0242ad0e2112ae1ba0620213edde3a724c8e145a342'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop5.cairo
+> {'addr': '0x06b43fd2504f3cb1f3bd2edfcc09a5d837a338c32fe6dfd7161e3137e3ce9209', 'tx_hash': '0x5e76e80552a6694d72ce95eb939309f25c501e04021179bc97fa2c994799553'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop6.cairo
+> {'addr': '0x0783d51a9c8f38b691b6f36e5338a1e205cd1bb6e127df4009df9030e517bf7f', 'tx_hash': '0x786408f0f35f902c6beaa768ee4e882715034409d446d97811bb84032fa6234'}
+
+> Tx sent to deploy mnist_v1_sop17_subsop7.cairo
+> {'addr': '0x011dba5ddf05c762418db69c6ae200cfd4327adc2cfe3ebc00f7daec62c00ef7', 'tx_hash': '0x2c62fcd10a63fa427ba3f71e3ae65807cd6cb48a9cde0442dfefe24fa7d47c7'}
+
+> Tx sent to deploy mnist_v1_sop18.cairo
+> {'addr': '0x0541834c0560e3295190c976bb986b1d8e512cbfd86048964142d6696b47da55', 'tx_hash': '0x6a16cb76da203123386fb3a544c941649fe034d36a547b3798a32f577ec154d'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop0.cairo
+> {'addr': '0x06b346126d40c04ef47cb179fdfedb73428004aa1dd7f61f5043a1238f6d7332', 'tx_hash': '0x746fc553938d3fd52da1473e4b38ca8a51edb076bce886f734d24a8e37ed1f4'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop1.cairo
+> {'addr': '0x040d452287fdd16e2f709f42a148420453bd404e1ebbf902f51cf74b86359214', 'tx_hash': '0x8ca5b408b62f296e810aca4226d45fd215a122b73773650045ffab38e12a5d'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop2.cairo
+> {'addr': '0x06dc0a9f0b3d52b5856d931f0ac31a07fe63ff660858a4253c7af5886e7a6b04', 'tx_hash': '0x40c561ebdc649e6aeebb8ca04bde9a66d3650f17b8f92bb52f1b1b997e7a33c'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop3.cairo
+> {'addr': '0x064d8532120398e268cfeacfd3520569ffbed8256933df0d92cc61ed632d31e7', 'tx_hash': '0x7e1893ad46c56a5e003f9126e04da1f0551e42e7ea7a5f42faf7bdefab045'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop4.cairo
+> {'addr': '0x06dc03db1512770106b2d6e21e2063562c3ecdf9f67de21eb3f78456766e849b', 'tx_hash': '0x3eca4bb8efc1a19e5514d8499f0022ab77f023e47b83986a7536ee9343dbc5e'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop5.cairo
+> {'addr': '0x0624ac12d77c8e33903f57d0823f64bbaacf00b7455f363358865c8a6df9fad3', 'tx_hash': '0x6d518983ad8e5352e88108015c42136a3ff9e5cab70c941bf3bccc2d2e6791e'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop6.cairo
+> {'addr': '0x0587674e568e187381ea1f73355859b9c12be731663f86fd861c4b0e25bfac86', 'tx_hash': '0x11dd1e820387e02d4d136a64b5ce0a9699da79a8e4c290080cb9c495ca54574'}
+
+> Tx sent to deploy mnist_v1_sop18_subsop7.cairo
+> {'addr': '0x027ced45544da14ae4e3d0696f2a78d0732a9edcedaf91335a4922da7c2a9730', 'tx_hash': '0x5d3c8bf4bbad62798400e7f53603b46ca985c35410e23789299acc9d711bdb7'}
+
+> Tx sent to deploy mnist_v1_sop19.cairo
+> {'addr': '0x0414bd994d3652ed4177d0a572d53318118bfb57f78252f18a12f1cb99cd870f', 'tx_hash': '0x25b58dabdcfd249d7fdf6afc4b9cc427807f911df325ceca46c155586d76975'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop0.cairo
+> {'addr': '0x05847a50f8f00490a639b270f68c3a25b4e23f27520225aab3571243152a1596', 'tx_hash': '0x1e59ea761563bedc3e7aa19b352f357628e37b95612ef3231c392510a07a442'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop1.cairo
+> {'addr': '0x044f84ed50a3bc35134081cb59294d4f1e3f4322db161724c24f76bab79fc0a9', 'tx_hash': '0x276cb50a730fec7a3f6916221bea28e49688f6875d2004850e8e8c0814d9f18'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop2.cairo
+> {'addr': '0x00eb38b6a96944cc56e36b74904d70ad0913c357d1be9563050f04a890f1b7f8', 'tx_hash': '0x28195d2b73ae7dbf081e895e3eba76537aabc98af40e130dd96911d70848ab2'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop3.cairo
+> {'addr': '0x0382e4393af394bb04b3c01d516d36c4941306bec914d30c1d0e6b896c42919e', 'tx_hash': '0x5b9c85d2fe8ca4b956737d52b70290dac06c829643718d2996bf73bcd239746'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop4.cairo
+> {'addr': '0x000225503328cd37dcb5340874da059a4f7f484a120ca3dc9d0de93acfe35e58', 'tx_hash': '0x51abfee6e7f349c54d078301c52a56176c7495cc59781ad68647a1324c634be'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop5.cairo
+> {'addr': '0x03eac424274594cbd3747ce9382f045f26b5bdf37f86d251bffe1aef8271113c', 'tx_hash': '0x7debb18f0ff02d19295f3e11f337341731b188084515037c0bfa33a6f6256ac'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop6.cairo
+> {'addr': '0x038cb9d96922d44a706129a5527f1eeb416e30bf54accf67afb183b6b67b561c', 'tx_hash': '0x253b5128a3452d0e623874b0301435649beaf8874365668cf5be582b97ff909'}
+
+> Tx sent to deploy mnist_v1_sop19_subsop7.cairo
+> {'addr': '0x010ba12dc59c0e11f3085e650c8daf3103a1540d6d9cd51594ba17ada6be4529', 'tx_hash': '0x25bc868efa0e48f9f155b185e8c233efafa50f5ffc1331e51557b5186d51497'}
+
+> Tx sent to deploy mnist_v1_sop20.cairo
+> {'addr': '0x05ee4b9930ec6a22c8c380fae641985dafa1fbaceab404ea057c589063422bc3', 'tx_hash': '0x18b3d7140b4364d59f4398038ce7264d636e2c83a38c9561376e8cd7791c444'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop0.cairo
+> {'addr': '0x0599fce53ce65458753ea5d2f0962365c656025d0b803f7255ceec91e2c9af52', 'tx_hash': '0x5777f92b2a63b64079ec15dcebb73459d60d868af7290260fad7db451d1756c'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop1.cairo
+> {'addr': '0x0182f36a95307bfa355c88cf6f5b33ca90fdda07c075178e69b06365aaa28fe0', 'tx_hash': '0x63d50efdeecfd3e3079a817568320f1c2acc83f9447f2fdd314a4a32ab35c6e'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop2.cairo
+> {'addr': '0x008b92119573c064246262a0efc8188da6010f1afe4d3192f1bbcb0bb98aac46', 'tx_hash': '0x42c1862328d4a1bfca27b8c0e56aca52a6af76c518b01702f7974488600486c'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop3.cairo
+> {'addr': '0x03cbf16e12f6cc9c60e6fd53981ca1658b5e8959f316113c4543d7133d5eef53', 'tx_hash': '0xa949084bd821363c86871849adb3ce5d22e35a6fa93cae881d7c024c4a6ef7'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop4.cairo
+> {'addr': '0x01ffeaba56fa507e40ea298c0a34dd76f378c84eac387bb2d80b686fe613985e', 'tx_hash': '0x4af47bd5ceac9ae0860dc20beae5240cb6d1d2730e2d932c438eb8f51237ec4'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop5.cairo
+> {'addr': '0x0559528e9c48c10fb1812e39bad6005d406bd2072484f00664eb1a6be1526878', 'tx_hash': '0x4ffa39162dd7c3868874c7ca9de265fc85e5277405bd684000ba68cf02923e9'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop6.cairo
+> {'addr': '0x00d7cad66af2b65a64611c15881505a141aad1caf895d2c23925371eafadc2f3', 'tx_hash': '0x58b362e50b2f8993abc1cc0d81e3839980e2ba65d59b26e1f9a65770e9d4251'}
+
+> Tx sent to deploy mnist_v1_sop20_subsop7.cairo
+> {'addr': '0x05c431f4ae9d7270b9722eb461039f06429e2d08cb80c157fb173c191a535413', 'tx_hash': '0x3e7dcf9955045193a29f29b32a0fbcdc545049e78c2a613adfaad8184c4ae7f'}
+
+> Tx sent to deploy mnist_v1_sop21.cairo
+> {'addr': '0x01bd3d95f0019a280e659ebb1ab373799b0f0ae142df35ad0b7b755df13c63f5', 'tx_hash': '0x5838996eec86c3ac86c331966e1e55639aee07459bae4f27447b730779c29a0'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop0.cairo
+> {'addr': '0x0673eef2a1d3d3f4d499c588ede7c91fd6a69d7a0c11f6d5da43d2419b59a9db', 'tx_hash': '0x458e91639fc0efbddb4ea3f14984897ce8c27729e8e599f7f830f65ec90a383'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop1.cairo
+> {'addr': '0x02155f7734da85524329cfbd9598811d96fc183f9571ec972f03770997066b46', 'tx_hash': '0x68b3aab8b8c8f9181e8a72531d516b4919ee671d899ffc9c9068628ee1f60b6'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop2.cairo
+> {'addr': '0x0719da81863b1c8e34960e64018579221827c562ac1137ce3051dae654d6769e', 'tx_hash': '0x1fba51aac091f9d34ed83165abcdfedd05ffb37a8638561703615bf0022a20c'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop3.cairo
+> {'addr': '0x03e4351ed2601d2e4f5e68498dad7e2dc9de98b59a5fae17d6eb1d663d257a0d', 'tx_hash': '0x6ba27b630a41c7c60cbb30c91ecf34fbd05de984f8894c7672842d4f5682ca9'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop4.cairo
+> {'addr': '0x04d3deee6fb282dac44507e22b96510124e5676ae7de498ea3759d6a2d328163', 'tx_hash': '0x1caf3c530dd00d160cd37ea1fbf97808bcd5b7a6a24371ef9ce5c67b24a2eb3'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop5.cairo
+> {'addr': '0x0697ac2c969dc7e17cb3552ace92c18c04769ab3ded9ec734cda94c1a1aa8968', 'tx_hash': '0x76c1a50619cfea639e8758cd27196235aad930ed20fb9bcb323ed1815fbf751'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop6.cairo
+> {'addr': '0x04f437ffe71b71bc3ea4f84d5eb063a5382916f27bc4f02faa856b2224d30151', 'tx_hash': '0x7b8851701a4570627d3fc1b821265ab817d9f9aed6fb458a4e66d011f74d4e2'}
+
+> Tx sent to deploy mnist_v1_sop21_subsop7.cairo
+> {'addr': '0x07f7bd14b88972bfae0be9b46c2c9ed751152d40b81ab57e5b96005ca9d700ca', 'tx_hash': '0x714df3d59a34649a771969f6d996f42859e822a485cbb5fe91c97a5c73b6b1'}
+
+> Tx sent to deploy mnist_v1_sop22.cairo
+> {'addr': '0x04fe3f859f8d77646388ac5fc7c87b15641d19b4489e523b472e4a1246d74108', 'tx_hash': '0x6bbdf3b7f8baed87e959a24f2ffa5c0f5f596d46df918a4f964e67da81251b5'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop0.cairo
+> {'addr': '0x008a9ee38735a1a0c5bb32639ff98935cd594fb681f0ccb6f9f1fc40e6de87fd', 'tx_hash': '0x21a3bcae88733493d5772e5569d2bc6939ad7bff95144f466d8bc05f54de575'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop1.cairo
+> {'addr': '0x07e4b996134eed9390e44a8f2ce2f62241cef296257ab77a44ed230e3f15a707', 'tx_hash': '0x62f45be36cc88fa85bbc7f8a578ea0269e990a4241dc69961f44eceb039c961'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop2.cairo
+> {'addr': '0x0259aa0e47878a6b8ddb38889a97161bc52def91fc7b6c8f2ce8826c24845889', 'tx_hash': '0x1f5d09ab64a491ca09010d0d507d11c7fa173180372737b8643f276b0a5c917'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop3.cairo
+> {'addr': '0x047902329a14e6103c2e20b0776de60797a13019d532a04c48ea8443c040816b', 'tx_hash': '0x7e887507c9af9581b88276d4a0cc372d8684ba59c90c2fa69bbc07c5c0930f4'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop4.cairo
+> {'addr': '0x050ac33642cc214f9c344f07654e63eca4532bd321187a45515588ec444d5fa0', 'tx_hash': '0x483bf2b40509224d06e0f4b424b2a8de74768c9adc055ce63474e73379b02fc'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop5.cairo
+> {'addr': '0x004bdcb6d563594eb0f949384d878b29931c65355aceda52beae9bd14859031b', 'tx_hash': '0x6066eb96fa5f027d08168edb7a35eced8203577b5596041c8e962f832bc4b74'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop6.cairo
+> {'addr': '0x07a6fe9d6b0c085d3031388245993e7dd624af58d09ca46aba7ebc88fefbdf9d', 'tx_hash': '0x14437d6f88b24bf27af865003ea2170ab61e45ad1223226367af1783881d6a3'}
+
+> Tx sent to deploy mnist_v1_sop22_subsop7.cairo
+> {'addr': '0x0759c389f5435b1f5edb9351f3f32a47bd3b4690b8f6e3a0e9d92068f5f4163b', 'tx_hash': '0x242ebc61c88297de5fdc61cdfb0b9e9d908e27f57f13e7a6a8e8015b1363a2'}
+
+> Tx sent to deploy mnist_v1_sop23.cairo
+> {'addr': '0x03de713d9e33dc34d2c8f0c40012b5e21a19a3aaa32dd3802e0b36123c87f8e8', 'tx_hash': '0x4d184dbefe220cb4a16bd1422444950558391b6c4a5c3bd9714adaca5f141d6'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop0.cairo
+> {'addr': '0x009189213ce0aca10d9b6f79d4114926ffe2d98f648ca9c47221bc2eadee9815', 'tx_hash': '0x30cfafcf965e8760b519663284c222d133c606b613a34eb3158d5b4ff1531bd'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop1.cairo
+> {'addr': '0x04299f47429673dabb3bde9324e784683bf887aa9bafa3a31a2d45f53395fa81', 'tx_hash': '0x17b75de7de83dca526a0402d239bcf81ea964a8ccb88d7ff3c2573ee3fd8b8b'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop2.cairo
+> {'addr': '0x03f5c6c5f2555643bf8613a2f3ba49bccc8f258dbda93660b37cd7c5381f7219', 'tx_hash': '0xe24ca3f0f509fa35be9db21189c710c9ff7c89d82bc7f476aa903f3524db60'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop3.cairo
+> {'addr': '0x016e21c42e501a117b1a9bbe8b4bad697132d5e88bfe2dfec85d760ab97b7aba', 'tx_hash': '0x50cbd1ce9d0fd82b706d9666a43cf37ecd64e3091a3b274d80ff288fea027c8'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop4.cairo
+> {'addr': '0x075b474efc472d886847deea8372d7deb508a871cd3b9b19038210d90634ee24', 'tx_hash': '0x523900b778ee55a19d4e7be42d52671054c62907c271b27695265c7210dd8ee'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop5.cairo
+> {'addr': '0x02aa60af19203ea50acf7dc8aa46e25438da4b63699ee4d6eb4338dd16642d79', 'tx_hash': '0x22861c36d5367d2a4708eb6495e098536dcc1bd64985ace75c262029fd7d8ac'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop6.cairo
+> {'addr': '0x07abdcf248c307d1ebfd1ad1ad5dc04632e8bf0451c88187ed0a7d1331032b3b', 'tx_hash': '0x387551a9ecbb4481c9f7c95d241e08831d40d78ab606f977091f1a51bd02e6e'}
+
+> Tx sent to deploy mnist_v1_sop23_subsop7.cairo
+> {'addr': '0x07b0b24ca20662de8eeefcf962b0874818f549006dfa45327f09da747ba23e48', 'tx_hash': '0x5afd8db47716c75ee7b200665195f01f854c4483fa5ca78913b3926769559f1'}
+
+> Tx sent to deploy mnist_v1_sop24.cairo
+> {'addr': '0x00586aad8d467f3c0ea4c87b5086c69cfeb924a0f95e61f9a9a6b4cb76690401', 'tx_hash': '0x14ca184f2eac629b9923b710f5eba27da4ef61d799dacae83105cd440520e0b'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop0.cairo
+> {'addr': '0x0379faf6d7d0105586d0b5c832f1066d1510352dfe65e393c539cff5a69e9e91', 'tx_hash': '0x56f21b041d30724b2ef14816162c97bc304b66b45b9de12abd6f8a38205110c'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop1.cairo
+> {'addr': '0x02789850603668cfad85ed57656b62bbacf96a9f0d2c0a618b31c50f3ef5324e', 'tx_hash': '0x67f8d6cd230d1956bbe018af9cab5aa6a341aae0a81507a58ca54bc9954192c'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop2.cairo
+> {'addr': '0x03382d7ef756c9725fe6cba5086ea28279d5902c4da42a544954df6b6e96517e', 'tx_hash': '0x68cbabfb4c0de1e9a2c0dc3c30cc5a2f5bb2a48ea7b3cae01a91600c1fa5211'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop3.cairo
+> {'addr': '0x05cf56d12601ad37737e7f0a9fa053230ac158c2207d511ff86bb26c1330b7b0', 'tx_hash': '0x66b3682f364c961aa1be42b49a85e57478e6a36a09f83a4014f9491561f1658'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop4.cairo
+> {'addr': '0x00c3039b7745b3cc6707cc39e3f0176e02d2df169fd9b4f58238e267417aff4b', 'tx_hash': '0x177f497a209a74bbdae3f548c8c411f933818e85ad04a6ec4584b564bc7f8e8'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop5.cairo
+> {'addr': '0x0396e9a3f8d77a842d1bdd97e7297ba41550771300afe087f9b94b8aa4a2c639', 'tx_hash': '0x725e204b5e2f75e7830774d8a8b9fc33d9a2a462dc28c74df57e560c763816a'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop6.cairo
+> {'addr': '0x053718cd2f18764dc3c2de25c68397c3443460422a1a85904cbd1518a4f78b2e', 'tx_hash': '0x3cc9c43cc5dba1f6c1665d0cb6cefcca525ae0a0827fcd29fe504f53fb7e878'}
+
+> Tx sent to deploy mnist_v1_sop24_subsop7.cairo
+> {'addr': '0x006d0e684f1034c0a7846ce4f50a036ac2d22f9c325177f54cce099ca1cf5037', 'tx_hash': '0x55b852c4ff4776faa68c4e1f547d84745ca39b00d4df9281dcdb60069751d3e'}
+
+> Tx sent to deploy mnist_v1_sop25.cairo
+> {'addr': '0x05640b735d2d2568e18796aa3a0866ad4125043a1d74a95b66e2872857df54d6', 'tx_hash': '0x2cc486bded668d4398fa243b26007a498555a79a5a3dc7db3875adc8bb75002'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop0.cairo
+> {'addr': '0x0427a0747e0488c37d1e5e9dd404ec8c212c2fc84763a328b0d8a6ac579b6f1a', 'tx_hash': '0x4fd1ce49ce81a9a3027320c28fd8fcfdb46767f57a402a46eb398d9f44c50ac'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop1.cairo
+> {'addr': '0x00482b44fa48f759d9fbcaa67004c4c563ca3a5cbb33312e3c45a012cc1b19e2', 'tx_hash': '0x21ab41d5794f2a4a3c880249e6a97546d11ccf0a468ad2895daf51ef609e41e'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop2.cairo
+> {'addr': '0x06742c920f68d310176175412279d8657b12ade3d01cd01fa781bea70c33c0fe', 'tx_hash': '0x68ae1fa168d99dd9daa80b56b385b3bbb1ed5f7f6e1e6dbf9a47a7e9eca6958'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop3.cairo
+> {'addr': '0x0666a1ae36f7f682bc9be693d517e9ad2e6e1726460fe134e2e5cfedeb138882', 'tx_hash': '0x6160f88ea6c56685980a51d1fef780b3f5e0271ffae41e07a978159e5ab03c1'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop4.cairo
+> {'addr': '0x04b499c435d4de31403deded294a1b4a6c1d2fd5f19b94b0e30e37bb3dac904b', 'tx_hash': '0x642115c58216f36dfe6e8946f0f7bb03c719fdc399398c9f76e21426fbb7000'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop5.cairo
+> {'addr': '0x00cbc10b50437884cb763bb682becb7c86596a4429592c7f95b03d61501b7627', 'tx_hash': '0x62d09339a107e8b628dd4fd4fc0dcacb7a04ccebdc89c546a68d4f820b3137c'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop6.cairo
+> {'addr': '0x06271bcd550ac838ab74c9883724065484d1f64753e31532e818b1e22a1b99b3', 'tx_hash': '0x79ea1ce25ce2e0b8c60bf8c67c5ecc449b00f5dbed7160e49c3e85c33d44b96'}
+
+> Tx sent to deploy mnist_v1_sop25_subsop7.cairo
+> {'addr': '0x00015c4da6b840efa2e278d25fc070adc0d7d5fb8195d5a33c3df272a9c93d80', 'tx_hash': '0x142f66f265e0491ba8baaa9e668434106b7c904a33e39b2206f15b9c9743c4a'}
+
+> Tx sent to deploy mnist_v1_sop26.cairo
+> {'addr': '0x05cfdec481df88691ffaab496b7311d85fa05feec59eac8bafcc7d3272bd77a4', 'tx_hash': '0x20823a38ded2f468c4d09f5cb34bcc525519318c14def799353b83b733ad7f1'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop0.cairo
+> {'addr': '0x02eb67d2fec6be07d58a8908bec86c5e1f827277d58d5b8ffa83545a20895f1d', 'tx_hash': '0x6ef4044c40c921d9128fc3ecfd1c7b97461a83327b72b37dda8fd62c14b57f5'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop1.cairo
+> {'addr': '0x02113986bbff96f4bab9982d4589e2206a85eec731b72fe09109e2c00b4581fe', 'tx_hash': '0x6c847049468ce4f0395b4c18b5536361c65e192e407c818fae431676a8fca61'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop2.cairo
+> {'addr': '0x0721328319487ef92fb3a4e654dbbfe632f7aa36a4623738c20244d691c57f8a', 'tx_hash': '0x11da6525be71a16f2f1f63e868c96a8a00fe9744a27e77f619658c34f29e117'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop3.cairo
+> {'addr': '0x06f8b40efe9420e0acb1bc1970aff64210ada1f2a6f0bf7fe3954a32f9c755ea', 'tx_hash': '0x19922e5d61c012201c6faaf739ae15651ef7b384ccd5ce60b7ada07fbf80366'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop4.cairo
+> {'addr': '0x062c6f66287134840d260049539b9df8f9bff851f0164ba8f1c9c0bd2cf1f82e', 'tx_hash': '0x1430fa19051240349a2b065bcf3685224dee13b5314323cec6fe5aeeda9f3ba'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop5.cairo
+> {'addr': '0x0389af3f60b5ec67e8002df29f6739ecc5d1b07fd15091a1daf492af73ee75a5', 'tx_hash': '0x1bbab7d907d28908b73ac1207963d2c69af6ff2588727df7b842c44e5900e85'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop6.cairo
+> {'addr': '0x0154b1ccfcab7924451cdc23055d246d09236ee12ca7ec05421f88b94773bfed', 'tx_hash': '0x43a72b920c8e221082131d8239aba892bbac8b1c58c9a0bc84582113dffe50b'}
+
+> Tx sent to deploy mnist_v1_sop26_subsop7.cairo
+> {'addr': '0x024765d149f0d3aa73ffa133101d173652c97c99ac8eb0bed2ed0083d56027db', 'tx_hash': '0x27f72b52f5fff77b60e5eef088aa9a9cf9fadf13275a85dde23689ea058ab10'}
+
+> Tx sent to deploy mnist_v1_sop27.cairo
+> {'addr': '0x04082dd1b3293c8f1b1c9a2cc8c106baa42e2bbfdc5d1b5d11c2baa5dccb1630', 'tx_hash': '0x528de35e2cb932b75b5c24f42e7bfa6224604f0adcf42d2d9b2471eed01b286'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop0.cairo
+> {'addr': '0x025739ba151fdb5e7ee31e82fa4d70ec6a5be3f9e5e0c1ffcb0a4aee99d4e93c', 'tx_hash': '0xcc0d981ec5776489d8adf5b8eadb4a2ca0317fb85aa29b046a08245fb77958'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop1.cairo
+> {'addr': '0x05ac18ce9a95451bdded43c92d072d8674f86930af2045b0c460c32c53fbda42', 'tx_hash': '0xbd09cb180c531d4ef72528d80dcdf16fb66e943691a70fb8098044958b5218'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop2.cairo
+> {'addr': '0x02eb5bc7125b9b848c3ac2ee4755d619c4b4617c37dc9419b818e6edbb77bfac', 'tx_hash': '0x3c63cad75941e03ed755b278ab4ef5d0f569d3f25efb0ea695c6f5b2c28c569'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop3.cairo
+> {'addr': '0x00681d0eed8234a104d37c8bf4fd153b7723d45c91f1a29dca1d1a468a38b4ee', 'tx_hash': '0x1980da8edc351a0ed7b728d59987db0f595c327a339f0df0ef37a77dd6a2896'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop4.cairo
+> {'addr': '0x075d9dc56ccf54a3cd113185e5d102e9c9d8efca48c5f9ca0d1c4466cfe0d8e7', 'tx_hash': '0x97dddf8d16863e4ab8f8b61fa447cf1d6ebe2c836ec8c5723c0a142d869725'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop5.cairo
+> {'addr': '0x02a5b2d5a139d2c32928348d60ea75e2e239096eb4e26a402fb498d8f2cb9ff9', 'tx_hash': '0x3157d38a118c69366a8de2be40ef64ef76ad0da9b7f2fe6c8c1ff84e303b4f9'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop6.cairo
+> {'addr': '0x01d2e6a1d8701ced6d3f279ed1ae0a992154fb227b30c2363933289774403bbc', 'tx_hash': '0x1415993f9844d6b17213e0731cd59264d15a01e9da764e3b36a525f60cba9fe'}
+
+> Tx sent to deploy mnist_v1_sop27_subsop7.cairo
+> {'addr': '0x011bd44157b1abd6c82316a34826bca352f21fbd0d764e0884e72669dfc48a53', 'tx_hash': '0x87a9d813ceb786f0fef8d7841f230663335e3900bde6f88b03aab2de003899'}
+
+> Tx sent to deploy mnist_v1_sop28.cairo
+> {'addr': '0x071f0d514eb49277f6b61c86d75a43c9401719d6dce0900e5e3e8cc72a089e0e', 'tx_hash': '0x2e81e66207ff51ff5b4e22db0d85ab24161c816ab2455e7306893ff73d4abbb'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop0.cairo
+> {'addr': '0x07611a529ee3e42a958b9c7b7d657edd5f83c728533d2fb9de5a428168c21524', 'tx_hash': '0x5443fe34d1015000f46d89cac7a38845f1d6c1bdec61df26d75b02e860ed4b9'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop1.cairo
+> {'addr': '0x05907e2ac732f255b0249532a8cccb95a0c36ded4974789157bf2f7048f24080', 'tx_hash': '0x79c460b233d165485d88e77e536410becb51a6f8f98bb14ad6803b7e4342cb3'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop2.cairo
+> {'addr': '0x01ab41fbe652b091c59f9c0be3dd68c6ff8d7d35629a3f8b2187d88b8bd96bb6', 'tx_hash': '0x722bd171ef9a8bcfb3e1b326e7bb49efe62a4c70f29c2b4d97cdf3004b13c00'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop3.cairo
+> {'addr': '0x03836713d082a75ee00f2f2b5b435b4a4026009b4038d80a8499f4eb1ecb82b6', 'tx_hash': '0x3e3c029911391c1797f30c4316345f3f6489337fce7c13ba950cdf618d82fca'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop4.cairo
+> {'addr': '0x04774c184865b04853ecd241ddf96e2ee2f47820be3edca229998c731c32ce27', 'tx_hash': '0x1d6eb8f9c29f8b104bb6b015f2d7dc0d5bb96d33f0de764536a5a0ffa01a7e3'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop5.cairo
+> {'addr': '0x0121976d6425c465053b4cab5715b2accc47bb5aa5296df54dc0649239bc72fb', 'tx_hash': '0xefd979ca97f69c9b765ce3e6959070fedb18b430731856d666c3d951f0dcd1'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop6.cairo
+> {'addr': '0x01451c63c5ae0e000d20281e7f716bd0d6faa8ce81514a5470749fca998f4a5c', 'tx_hash': '0x1ded0d3855701c5339f962c8f75097abb0bc059541b9d276c35cc9e4bc2fadb'}
+
+> Tx sent to deploy mnist_v1_sop28_subsop7.cairo
+> {'addr': '0x05e3ceaa9089fd5a7a687acac35a3d944500b85a6053d6729b4f0bdf59839849', 'tx_hash': '0x186f05ef57dcfbf2179d895dafaba824ecccffe7705bde7e446c6adfd2ac375'}
+
+> Tx sent to deploy mnist_v1_sop29.cairo
+> {'addr': '0x00296c889040a85053568b7626fdedbffd9325be2c5f153996918e5bd64a82cc', 'tx_hash': '0x51b8cf44dbf367e4815eb7e426ef1c19408647bf4cfce1551de3f8e43105fb5'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop0.cairo
+> {'addr': '0x0601656c1476f6a15a2ab9c7f902c4d5d992ae9f64b0e4fa92d32312f629cce4', 'tx_hash': '0x6be8a28e86e3b20b18b73e547a9e631f8fc7d0b79d8761edb95141dd2387b67'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop1.cairo
+> {'addr': '0x01f9bdc36e771a538733a3c117eb69514fd61ca1fd60277f79782a37f37c219a', 'tx_hash': '0x1f4a615e3a7859f947ee2f0d3ad734abccb51867cafaecadc919c8ff4bc62c5'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop2.cairo
+> {'addr': '0x01717d2d7e2c8d40786ac77154eb6e90e2dd12e8d1610b058b745cc85e584f06', 'tx_hash': '0x72592ed144e41f2e87e9abff460ec609c32f1cc0cc10e89591b8513662160e7'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop3.cairo
+> {'addr': '0x0102bd7a4ddd321602cbecb9a20bcce136423b0e0f8dc6e84ca297b9543ebc55', 'tx_hash': '0x66fd31bb729762e6ed7c0ec843394b8fd6802aff201daeea51d6f03d9f1298e'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop4.cairo
+> {'addr': '0x06752bdaa7183181bca817bd2cb3fe6df7b98928945b6db3dd80defca54290d2', 'tx_hash': '0x532158a5fe3e13685ea2d75f36bdb688c1dbe030dbec836c44482f1f3ea421f'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop5.cairo
+> {'addr': '0x025b71f10b2e00cca8181bc8e8852e0b23ec30fa0bc6dadd3e7d6cd3bf74cc6a', 'tx_hash': '0x2c47b3302c183cf5f6c6ce73961c0a9c01ff7108348636d0e4f8f2668c5ca8'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop6.cairo
+> {'addr': '0x011eb59fe1fc751d05236ec937e45ae333288413ae7c09bde9a0c0de8c30f71d', 'tx_hash': '0x349a2b8d427b25c55099f0b24cdb34b3d339e3c3f1177c3f181374640bf23bd'}
+
+> Tx sent to deploy mnist_v1_sop29_subsop7.cairo
+> {'addr': '0x0531544d1c6c7b3c5d790ddcc92cfa8568b07f6d79967ac93399cc87d6b61259', 'tx_hash': '0x355007dee22c331140ced7fd6f1a000bda1ca9b752207127b7411fc0fce3373'}
+
+> Tx sent to deploy mnist_v1_sop30.cairo
+> {'addr': '0x05c1a89a25c13ab9f49f3cbdcde63c716751e3c93ef0b8abf03a80f795767b0d', 'tx_hash': '0x19c70d20816bd7c0efe73daaecce778d8404a065d91ce8b4b1751a643f0e545'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop0.cairo
+> {'addr': '0x07b30875c118cb236941609683980c05f00ed46de82aae3fd3b9f339693c4e31', 'tx_hash': '0x605ddafd12f7abb753c299deb992cc86ce1a839d1887e01af1c43db3f68f1a9'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop1.cairo
+> {'addr': '0x0625ac5210b3aa9198614e038608ff4d11441ef9ffc6c11f784edecd5aa07206', 'tx_hash': '0x1eb3e6f90c10dd7f65fafaf93eb4c663a17f34b2e288f87798f44447161af2a'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop2.cairo
+> {'addr': '0x02d55a20dd5e344bd3eb20bd05b20cc89d5f688928748dca8578a301bb3d8170', 'tx_hash': '0x6ded26ea9c90721fe7dd5be2047cfaf4c5b7aa66cf89739b7101b6c2ffc8a3f'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop3.cairo
+> {'addr': '0x0219792b2a2c4f5905e9830c34715ac7ce254f7c2ac5380f4edc6a12e0f5840a', 'tx_hash': '0x3ec09404d8142dcf61bcbe3f7777c6b596e5740b5d1c317ba7c6de525409da2'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop4.cairo
+> {'addr': '0x0297ff3c4e17f98f73510e26b90ed8131b1daa55e051118eb32304ce16be1046', 'tx_hash': '0x44e09d0117882eb98cfda340e6493181cf664f2170a5c6944d3a63464f9f2de'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop5.cairo
+> {'addr': '0x02568f1e174709ab6a6f5ec89163ba15494da30047b7b2f8033c6bca4c3f6c99', 'tx_hash': '0x496cf178c90e3474b8120db27ebf636ab39ce24c95145aed1797256dd5096a5'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop6.cairo
+> {'addr': '0x05f9db17a5572411411eea8927ccbd5ba66bbf290adbc065bf72601c1e778b38', 'tx_hash': '0x657e79a0e6017526cf0398377c19ca93969db446d24dc5dd692be3490a2a0c1'}
+
+> Tx sent to deploy mnist_v1_sop30_subsop7.cairo
+> {'addr': '0x0172543da35de269a47d2413f8ae74116eda60de706281d43977447c9d7987c7', 'tx_hash': '0x3a92757080c483bbbfaf790bd2a4c1432eacd87878522fab829d4ce3b66f72f'}
+
+> Tx sent to deploy mnist_v1_sop31.cairo
+> {'addr': '0x050efc62dc5e6ba0916d1335baec2cde335961ec1336845897efd4acba6e3a89', 'tx_hash': '0x4dc061b6bf35e207011455a2139fe7a16794a78ba504eae12cb86ebea5db394'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop0.cairo
+> {'addr': '0x079c827b02abdd05da1f22adf1665a1c81e4f50e776200775e52530d9a29bab7', 'tx_hash': '0x173052d64d179313f501c4d6cf8341868f0b8390a9092139a13a80aae566e8f'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop1.cairo
+> {'addr': '0x04074179dc0bc9f84d4c20f057a2bca6049adfa485fc4ce3dba3b72bdc3a889b', 'tx_hash': '0x7a5637492ff3b571c6093bc314464918d0430e8258bfcc678c71b63f3475ce1'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop2.cairo
+> {'addr': '0x0422074805b296bbf8e4f4648a7130f7986142ccfe5aadfc780ba658aa38c93b', 'tx_hash': '0x2c5fd9237fca9d3d650f94cf53ffbdd20dd29e0a8c298e3cd92368e71ea0595'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop3.cairo
+> {'addr': '0x018e5c8f886669453d4a571c64b00ae5b89f5089f0f0cb25b0adcbd964004ad9', 'tx_hash': '0x10f4711e98248c36ceaf5a5b73c0c86c5de9cc7db97efdfe6ff614852a1e58c'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop4.cairo
+> {'addr': '0x014bf99fc3a2faaa92a138af2bbba434d2e48207aec45929f4b9e96b8760f82a', 'tx_hash': '0x2d5c4c2a3b03a6d0dfb6837a64876ba6bccdb08bf84cb4b14b85f71df158932'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop5.cairo
+> {'addr': '0x03769b549384290a1677f974c12bd35f93a59d34fdf97d5bc1e6dd6f569ae32d', 'tx_hash': '0x4c55293c48f19ac343c714e8e3c34bfc1ae2444971e35e7484113fc3bc610ac'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop6.cairo
+> {'addr': '0x0088e32de58730053cbbbed765f363e47ba7ffc9d85fa9dd575b2da7dd29a12e', 'tx_hash': '0x1e5d57ae7f52cccc0ec3e1ea361b994a04f49e29274360599f06da77c0d0a43'}
+
+> Tx sent to deploy mnist_v1_sop31_subsop7.cairo
+> {'addr': '0x004cc4f2c8c0be8594702c074673a60ac53398cee179d7cdaef5f72c84a4a4e6', 'tx_hash': '0x7aebb597f39fe72908a8336fcd2e28bc01b75e16498a2eba2982facc7460a22'}
+
+> Tx sent to deploy mnist_z_sop0.cairo
+> {'addr': '0x07d1a807626f2665ab0c74d590e22814f58ec9f045a1343886c4d5ed4fbb0d89', 'tx_hash': '0x40b808a1f722dfc9521198d32aaae853b308f3570052e491cc5335ea1821f81'}
+
+> Tx sent to deploy mnist_z_sop1.cairo
+> {'addr': '0x0098d3e9c8357ffec25bd4fb8b49b99ee02c993dc0f21f6b31de77a72e422b51', 'tx_hash': '0x2d31d172a830a7f8aa6ad1662ad0d0c7027e7ef9516b0a1cf71c1d912a8a9d2'}
+
+> Tx sent to deploy mnist_z_sop2.cairo
+> {'addr': '0x052c0314e12f6991ea053abaeae57f320760dc0d832c02afe3401bcf08dc971d', 'tx_hash': '0x1589fe2de5408a216854adfa24c51ac76653a6669ee0a7c345c9ac9db8460e9'}
+
+> Tx sent to deploy mnist_z_sop3.cairo
+> {'addr': '0x06c89be60f0494d19585b3e67918fdd8355d711fe867c565aeb308df6de5647c', 'tx_hash': '0x44147c3d54db68d94b6538d6aee9a4a93e4facbfe6d502b2d04d98a632d7189'}
+
+> Tx sent to deploy mnist_z_sop4.cairo
+> {'addr': '0x0148b42f6e3b92531cd09b5aa85dba6457a5834d8fa9b50d9703fa4d85c57669', 'tx_hash': '0x12e6a607c3c397ed1dcf550af6640fe3be8e663ce06458becfc1a087f156ba'}
+
+> Tx sent to deploy mnist_z_sop5.cairo
+> {'addr': '0x01a9208c277a6ae58e3d97e38896ca4a36be184cc39dcb73ec58f1ee8ee6b0a2', 'tx_hash': '0x5590d5c95238e4ee683556100a3aa7f8876928c43459ae1b1a537b540f685ca'}
+
+> Tx sent to deploy mnist_z_sop6.cairo
+> {'addr': '0x02eb1906c801cb685a01583adaf0492ccf1dbbc02e00997f2074490d1c40b7e6', 'tx_hash': '0x6710d35a9d01920207f6cc467caf9cbd49be8f1494e4cfc12962b4dd473c222'}
+
+> Tx sent to deploy mnist_z_sop7.cairo
+> {'addr': '0x038799a4719ec6387d867639eff7f995c4419d67da8b23ae0ae269e5403f5e41', 'tx_hash': '0x6460d77515f8181fab28090ce345c8144b9cd0fb7ff1e14eb25dcdec90b1e54'}
+
+> Tx sent to deploy mnist_z_sop8.cairo
+> {'addr': '0x03fbc6ba611c21d713beaa8fa32454f56bb8dc79e4b55a27e6a09335ae5f50f4', 'tx_hash': '0x408399742a75c9830ba19e59ef971a76a16b553d789547375f630989939d7e2'}
+
+> Tx sent to deploy mnist_z_sop9.cairo
+> {'addr': '0x025b1d910f121b59027ce5eaed7c6c31ab6e857d5302701abd8c62c0d27876b3', 'tx_hash': '0x1983b20f73007437d7a4cc02511aa2e647b8b02003cb79a1090751c96f0e6f'}

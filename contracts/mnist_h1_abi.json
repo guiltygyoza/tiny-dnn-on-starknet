@@ -1,0 +1,27 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "v1_len",
+                "type": "felt"
+            },
+            {
+                "name": "v1",
+                "type": "felt*"
+            }
+        ],
+        "name": "compute",
+        "outputs": [
+            {
+                "name": "h1_len",
+                "type": "felt"
+            },
+            {
+                "name": "h1",
+                "type": "felt*"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
